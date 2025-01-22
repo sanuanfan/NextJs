@@ -2,7 +2,8 @@ import React from 'react'
 
 const Body = () => {
     return (
-        <div>
+        <div className='p-3 m-3'>
+
 
         </div>
     )
